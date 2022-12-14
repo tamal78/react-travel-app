@@ -1,2 +1,2 @@
 # react-travel-app
- React Travel App
+ Trippy
